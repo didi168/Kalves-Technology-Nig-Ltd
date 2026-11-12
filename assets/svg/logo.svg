@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" role="img" aria-label="Kalves Technology Nig Ltd logo">
+  <!-- Green top-right outer arc -->
+  <path d="M 21.5 9.2 A 25 25 0 0 1 56.2 38.2" stroke="#7BB636" stroke-width="5.2" stroke-linecap="round"/>
+  <!-- Dark charcoal bottom-left outer arc -->
+  <path d="M 53.4 45.4 A 25 25 0 1 1 16.5 12.6" stroke="#182428" stroke-width="5.2" stroke-linecap="round"/>
+  <!-- Stylized K monogram matching flyer emblem -->
+  <path d="M 23.5 17.5 L 20.5 44.5" stroke="#182428" stroke-width="5.2" stroke-linecap="round"/>
+  <path d="M 43.5 21.5 L 22.8 33.5 L 38.5 46.5" stroke="#182428" stroke-width="5.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+

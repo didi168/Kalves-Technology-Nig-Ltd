@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# EDIT: update domain once live
+Sitemap: https://kalvestechnology.github.io/kalves-technology/sitemap.xml
+
